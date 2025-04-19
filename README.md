@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zin-Act
-- 👀 I’m interested in Cubing and JavaScript
+- 👋 Hi, I’m @zinheere
+- 👀 I’m interested in Cubing, Aviation, Pokemon & M U C H  M O R E
 - 🌱 I’m currently learning SFML
-- 💞️ I’m looking to collaborate on a new JavaScript project
+- 💻 I’m looking to collaborate on a website
 - 📫 How to reach me ... Email me At brioyt81@gamil.com
 
 <!---
