@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zinheere
-- 👀 I’m interested in Cubing, Aviation, Pokemon & M U C H  M O R E
-- 🌱 I’m currently learning SFML
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning to vibe code
 - 💻 I’m looking to collaborate on a website
-- 📫 How to reach me ... Email me At brioyt81@gamil.com
+- 📫 Email me At brioyt81@gamil.com
 
 <!---
 Zin-Act/Zin-Act is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
